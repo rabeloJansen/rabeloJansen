@@ -2,7 +2,7 @@
 
 🎯 BIM Coordinator | VDC Specialist | Automation & Digital Construction  
 💻 Computer Science Student  
-📍 Brazil  
+🌎 Rio de Janeiro, Brazil
 
 ---
 
@@ -44,15 +44,6 @@ I combine **AEC expertise + software development + computational thinking** to b
 ## 📂 Featured Projects
 
 🚧 *Coming soon...*  
-
----
-
-## 📊 GitHub Stats
-
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabeloJansen&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabeloJansen&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
