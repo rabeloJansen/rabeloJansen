@@ -1,16 +1,84 @@
-## Hi there 👋
+# 👋 Hi, I'm Jansen Rabelo
 
-<!--
-**rabeloJansen/rabeloJansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 BIM Coordinator | VDC Specialist | Automation & Digital Construction  
+💻 Computer Science Student  
+📍 Brazil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I work with **BIM implementation, data workflows, and automation** in large-scale and high-complexity infrastructure projects.
+
+Currently working on one of Brazil’s most advanced engineering programs — the **Nuclear Submarine Development Program (PROSUB)**.
+
+I combine **AEC expertise + software development + computational thinking** to build smart, scalable, and data-driven solutions.
+
+---
+
+## 🧠 What I Do
+
+- 🏗️ BIM Implementation (ISO 19650)
+- 🔄 Data workflow optimization
+- ⚡ Automation with Dynamo & Python
+- 🌐 Integration between AEC and software development
+- 📊 Process standardization and digital transformation
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Web
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,sql" />
+</p>
+
+### 🏗️ AEC / BIM Tools
+- Revit
+- Dynamo 
+- Navisworks 
+- BIM 360 / ACC
+
+---
+
+## 📂 Featured Projects
+
+🚧 *Coming soon...*  
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabeloJansen&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabeloJansen&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Activity
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rabeloJansen&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+- 🔗 LinkedIn: https://linkedin.com/in/rabelojansen  
+- 🌐 Portfolio: https://rabelojansen.github.io/jansen-rabelo-arq/  
+- 📧 Email: rabelo.jansen@icloud.com  
+
+---
+
+## ⚡ Fun Facts
+
+✈️ Private Pilot Student  
+🎸 Bass player  
+📸 Photography enthusiast  
+🎮 Gamer  
+
+---
+
+> “Building the future of construction through code and data.”
