@@ -58,7 +58,7 @@ I combine **AEC expertise + software development + computational thinking** to b
 ## 🌍 Connect With Me
 
 - 🔗 LinkedIn: [linkedin.com/in/rabelojansen](https://linkedin.com/in/rabelojansen)
-- 🌐 Website: [jansenrabelo.com](https://rabelojansen.github.io/jansen-rabelo-arq/home.html) 
+- 🌐 Website: [jansenrabelo.com](https://rabelojansen.github.io/jansen_rabelo_arq/index.html) 
 - 📧 E-mail: rabelo.jansen@icloud.com  
 
 ---
