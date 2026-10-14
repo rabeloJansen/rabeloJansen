@@ -14,8 +14,6 @@
   <a href="mailto:rabelo.jansen@icloud.com">Email</a>
 </p>
 
----
-
 ## 🚀 About Me
 
 I am a BIM Coordinator and VDC specialist working at the intersection of
@@ -33,7 +31,7 @@ I am also studying **Computer Science**, expanding my experience in
 software architecture, automation, desktop applications, data processing
 and artificial intelligence.
 
----
+<br>
 
 ## 🧠 Current Focus
 
@@ -45,59 +43,68 @@ and artificial intelligence.
 - Integration between BIM platforms and software systems
 - Maintainable, testable and production-oriented software
 
----
+<br>
 
 ## 📂 Selected Products (Private)
-These products are under private development. Source code, internal architecture and technical documentation are not publicly available.
+**These products are under private development. Source code, internal architecture and technical documentation are not publicly available.**
 
-### <h3>**dataBIM**</h3>
+<br>
+<h1>
+  <img src="./assets/projects/databim-icon.png" width="45">
+  dataBIM
+</h1>
 
-A BIM data analysis and governance platform designed to transform model
-information into structured indicators, dashboards and actionable insights.
+A BIM data intelligence and governance platform that connects IFC models, quality requirements, revision history and dashboards in a traceable information workflow.
 
-**Focus:** BIM analytics, data quality, project monitoring and traceability.
+**Focus:** BIM data governance, information quality, revision tracking, project indicators and decision support.
 
-REPOSITORY_URL
+<a href="https://rabelojansen.github.io/jansen_rabelo_arq/projects/databim.html">Learn more about dataBIM</a>
 
----
+<br>
+<h1>
+  <img src="./assets/projects/echoiq-icon.png" width="45">
+  EchoIQ
+</h1>
 
-### <h3>**EchoIQ**</h3>
+An AI-assisted desktop application that transforms technical meetings
+into structured, traceable and reviewable information.
 
-An intelligent desktop application designed to capture, organize and
-process information through an integrated professional interface.
+**Focus:** Audio capture, speech transcription, AI-assisted analysis,
+technical summaries and auditable meeting records.
 
-**Focus:** AI-assisted workflows, structured information and desktop UX.
+<a href="https://rabelojansen.github.io/jansen_rabelo_arq/projects/echoiq.html">Learn more about EchoIQ</a>
 
-REPOSITORY_URL
+<br>
+<h1>
+  <img src="./assets/projects/vstick-icon.png" width="45">
+  vStick
+</h1>
 
----
+A Windows desktop application that transforms mouse movement into configurable virtual joystick input for flight simulators.
 
-### <h3>**vStick**</h3>
+**Focus:** Accessible analog control, customizable axis behavior, real-time visual feedback and reliable desktop interaction.
 
-A desktop utility that converts cursor movement into virtual joystick axes,
-with configurable controls and real-time axis visualization.
+<a href="https://rabelojansen.github.io/jansen_rabelo_arq/projects/vstick.html">Learn more about vStick</a>
 
-**Focus:** Python, PyQt6, Windows integration, vJoy and input processing.
+<br>
+<h1>
+  <img src="./assets/projects/fxone-icon.png" width="45">
+  FXone Studio
+</h1>
 
-REPOSITORY_URL
+A desktop environment for building virtual audio rigs through an intuitive and extensible collection of pedals, amplifiers, cabinets and rack equipment.
 
----
+**Focus:** Virtual audio equipment, visual rig composition, real-time audio processing and extensible DSP workflows.
 
-### <h3>**FXone Studio**</h3>
+<a href="https://rabelojansen.github.io/jansen_rabelo_arq/projects/fxone-studio.html">Learn more about FXone Studio</a>
 
-A specialized desktop tool created to simplify and automate technical
-workflows through a focused and user-friendly interface.
-
-**Focus:** workflow automation, desktop development and usability.
-
-REPOSITORY_URL
-
----
+<br>
 
 ## 🔥 Technical Toolbox
 
+<br>
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,cs,sql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,sqlite,vscode" />
 </p>
 
 ### Software Development
@@ -127,7 +134,7 @@ REPOSITORY_URL
 - Structured AI outputs
 - AI-assisted engineering workflows
 
----
+<br>
 
 ## 🏗️ Professional Approach
 
@@ -141,7 +148,7 @@ I build software with an emphasis on:
 - Practical solutions for real engineering problems
 - Continuous improvement through iterative development
 
----
+<br>
 
 ## 🎓 Education
 
@@ -149,20 +156,20 @@ I build software with an emphasis on:
 - Master BIM: BIM Management and Coordination
 - Architecture and Urbanism
 
----
+<br>
 
 ## 📜 Certification
 
 - buildingSMART Professional Certification – Foundation
 
----
+<br>
 
 ## 🌐 Languages
 
 - Portuguese: Native
 - English: Intermediate
 
----
+<br>
 
 ## ⚡ Beyond Technology
 
@@ -173,6 +180,6 @@ When I am not working with BIM or software development:
 📸 Photography enthusiast  
 🎮 Gamer
 
----
+<br>
 
 > Engineering gives structure to ideas. Software makes them scalable.
